@@ -44,7 +44,7 @@ PROGRAM
 Developed By:P.Ritik Samuel
 
 Register No: 212221040138
-
+```
 import numpy as np
 import pandas as pd
 import io
@@ -114,11 +114,11 @@ test=np.array([[1],[0]])
 predict(w1,w2,test)
 test=np.array([[1],[1]])
 predict(w1,w2,test)
-
-OUTPUT
+```
+''OUTPUT''
 
 ![God is watching](https://user-images.githubusercontent.com/130056055/234752976-e3365399-59ec-4dc2-9d87-7f24d135b634.jpg)
 
-RESULT
+''RESULT''
 
 Thus the implementation of MLP for non-linear separable problem is executed successfully.
